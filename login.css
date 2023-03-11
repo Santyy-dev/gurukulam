@@ -1,0 +1,90 @@
+body{
+    background-image: url("study.jpg");
+    background-size:cover;
+}
+.form{
+    width:300px;
+    border-color:black;
+    border: 0cap;
+    border-radius: 10px;
+    
+    padding:4em;
+   background-color:rgba(0,0,0,.3);
+   margin-top: 20em;
+        margin-left:46em;
+        margin-top:5em;
+        text-shadow:50px,100px,70px,80px;
+        border: 1px solid black;
+        
+}
+h1{
+    text-align: center;
+    position: relative;
+    bottom:10px;
+    text-decoration: dashed;
+    font-size:40px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    width: fit-content;
+}
+
+.input input{
+
+    width:90;
+    font-size: 1.5em;
+    /* border:solid rgb(255, 255, 255); */
+    border:2px solid rgb(255, 250, 250);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius:.2em;
+    outline: NONE;
+    margin-bottom:1em;
+    background: transparent;
+}
+.input label{
+    position: relative;
+    bottom:5px;
+    color:black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+    
+    height:30px;
+}
+#submit{
+    text-align:right;
+    
+}
+button{
+    width:100px;
+    color:white;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:orangered;
+    padding:10px;
+
+}
+.login a{
+     color: black;
+     position: relative;
+     left:200px;
+     top:16px;
+}
+
+.btn{
+    padding:10px;
+    margin: 0 0 0 160px;
+    background-color: rgb(4, 4, 255);
+ }
+a{
+    color:#000;
+    text-decoration: none;
+ padding:5pxpx;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.submit{
+
+   
+}
+ 
